@@ -44,7 +44,7 @@ O Step Functions é amplamente utilizado em pipelines de dados, orquestração d
 ## Integração com API's Externas
  > O Step Functions permite integrar fluxos de trabalho com APIs externas por meio do tipo de tarefa HTTP Task, usando o recurso arn:aws:states:::http:invoke. Essa funcionalidade é ideal para cenários onde é necessário buscar dados de sistemas externos, acionar webhooks ou enviar informações a outros serviços.
 
-![AWS Fluxograma.](/image/aws.png)
+![AWS Fluxograma.](aws.png)
 
 
 ## Exemplo Prático: Fluxo com API Externa e DynamoDB
